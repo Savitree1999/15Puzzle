@@ -23,7 +23,7 @@ public class MainPanel extends JPanel implements KeyListener, MouseListener {
 	static int emptyIndex = 15;
 	static int moveIndex = 0;
 	static int randomMove = 0;
-	static int levelMove = 16;
+	static int levelMove = 100;
 	static boolean stop = true;
 	
 	// Constructor 
